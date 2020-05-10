@@ -16,3 +16,8 @@
   <li>https://github.com/dotnet/AspNetCore.Docs/issues/4155</li>
   <li>https://github.com/dotnet/aspnetcore/issues/18435</li>
 </ul>
+
+<b>Customize external login provider buttons</b>
+<ul>
+  <li>https://github.com/dotnet/AspNetCore.Docs/issues/10563</li>
+</ul>
