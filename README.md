@@ -28,3 +28,8 @@
   <li>https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/</li>
   <li>https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new</li>
 </ul>
+
+<b>Learn Blazor</b>
+<ul>
+  <li>https://github.com/glennc/BlazingMicroPizzas</li>
+</ul>
