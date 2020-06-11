@@ -21,3 +21,10 @@
 <ul>
   <li>https://github.com/dotnet/AspNetCore.Docs/issues/10563</li>
 </ul>
+
+<b>Create .NET CORE custom templates</b>
+<ul>
+  <li>https://docs.microsoft.com/en-us/dotnet/core/tools/custom-templates</li>
+  <li>https://devblogs.microsoft.com/dotnet/how-to-create-your-own-templates-for-dotnet-new/</li>
+  <li>https://github.com/dotnet/templating/wiki/Available-templates-for-dotnet-new</li>
+</ul>
