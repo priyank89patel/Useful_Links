@@ -36,5 +36,6 @@
 
 <b>Architecture related</b>
 <ul>
+  <li>https://docs.microsoft.com/en-us/dotnet/architecture/</li>
   <li>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures</li>
 </ul>
