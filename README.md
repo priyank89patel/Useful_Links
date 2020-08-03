@@ -38,4 +38,5 @@
 <ul>
   <li>https://docs.microsoft.com/en-us/dotnet/architecture/</li>
   <li>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures</li>
+  <li>https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html</li>
 </ul>
