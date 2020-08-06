@@ -40,3 +40,12 @@
   <li>https://docs.microsoft.com/en-us/dotnet/architecture/modern-web-apps-azure/common-web-application-architectures</li>
   <li>https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html</li>
 </ul>
+
+<b>Interview Prep</b>
+<ul>
+  <li>https://github.com/donnemartin/system-design-primer</li>
+  <li>https://github.com/jwasham/coding-interview-university</li>
+  <li>https://github.com/Chaklader/Object-Oriented-Design</li>
+  <li>https://github.com/checkcheckzz/system-design-interview</li>
+  <li>https://github.com/sid24rane/System-Design-Interview-Questions</li>
+</ul>
