@@ -48,4 +48,5 @@
   <li>https://github.com/Chaklader/Object-Oriented-Design</li>
   <li>https://github.com/checkcheckzz/system-design-interview</li>
   <li>https://github.com/sid24rane/System-Design-Interview-Questions</li>
+  <li>https://github.com/yangshun/tech-interview-handbook</li>
 </ul>
