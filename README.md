@@ -49,4 +49,5 @@
   <li>https://github.com/checkcheckzz/system-design-interview</li>
   <li>https://github.com/sid24rane/System-Design-Interview-Questions</li>
   <li>https://github.com/yangshun/tech-interview-handbook</li>
+  <li>https://gist.github.com/vasanthk/485d1c25737e8e72759f</li>
 </ul>
