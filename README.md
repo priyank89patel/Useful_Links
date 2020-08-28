@@ -41,6 +41,11 @@
   <li>https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html</li>
 </ul>
 
+<b>.NET,.NET Core details</b>
+<ul>
+  <li>https://devblogs.microsoft.com/cesardelatorre/net-core-1-0-net-framework-xamarin-the-whatand-when-to-use-it/</li>
+</ul>
+
 <b>Interview Prep</b>
 <ul>
   <li>https://github.com/donnemartin/system-design-primer</li>
